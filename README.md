@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Domingo Huang
+**USF email address**:  yhuang158@dons.usfca.edu
